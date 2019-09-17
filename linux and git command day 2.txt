@@ -1,0 +1,84 @@
+Linux Bash:
+
+
+
+pwd: present working directory
+
+ls: list of files
+ls -a :- hidden files also
+
+clear
+
+CD:- change directory
+
+Mkdir:- creat directory
+
+Creating files 
+
+     touch
+     gedit
+      nano
+
+cat: used to read the content
+
+echo:- used to write the data
+
+> push data into file
+>> append the data into file
+
+
+
+GIT commmands
+
+
+
+server to local -pull
+local to server-push
+---------------------------------------------------------
+
+
+1. git version- current version
+2. git init: initalized the git repostory
+
+3.configure the git
+    - git config user.name  "yourname"
+    -git config user.email "emailid"
+
+4
+pwd>>staging area>>repo
+file status
+
+	tracked:- files that are under version control
+	untracked:- files that are  not under version control
+modified
+unmodified
+
+files in pwd--- untracked
+files in server---tracked
+
+
+
+
+
+5  git commit:-craete a commit with a log message
+
+
+6. 
+nano:- open a editor to edit thr given file
+7. git add filename:- add to staging area
+8. git log:- showing the message log
+
+9.git remote:- to sync from local to server
+           add
+	show
+fetch and push
+
+10.git pull
+git push
+
+         
+https://github.com/Anil-a431/Gitam-Vizag-Python
+
+
+
+
